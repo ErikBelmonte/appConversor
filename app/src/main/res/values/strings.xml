@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projetoConversor</string>
+    <string name="title">Conversor de Moedas</string>
+    <string name="botao">CONVERTER</string>
+    <string name="resultado1">Valor U$: </string>
+    <string name="resultado2">Valor E$: </string>
+    <string name="resultado3">Valor BitCoin: </string>
+    <string name="resultado4">Quanto de Ouro: </string>
+</resources>
